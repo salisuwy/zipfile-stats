@@ -17,5 +17,5 @@ Compile and execute via terminal.
 **Note:** You must provide a full path to the zip archive file
 
 # Sample output
-<video controls src="[ZipFileStats.mp4](https://github.com/salisuwy/zipfile-stats/blob/main/ZipFileStats.mp4)https://github.com/salisuwy/zipfile-stats/blob/main/ZipFileStats.mp4" title="Title"></video>
+<video controls src="https://raw.githubusercontent.com/salisuwy/zipfile-stats/main/ZipFileStats.mp4" title="Title"></video>
 
