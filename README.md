@@ -18,7 +18,5 @@ Compile and execute via terminal.
 
 # Sample output
 
-https://raw.githubusercontent.com/salisuwy/zipfile-stats/main/ZipFileStats.mp4
-
-<video controls src="https://raw.githubusercontent.com/salisuwy/zipfile-stats/main/ZipFileStats.mp4" title="Title"></video>
+https://github.com/salisuwy/zipfile-stats/assets/8425466/f31a6ba0-b4ae-4c54-acd0-6961f25e7b1d
 
